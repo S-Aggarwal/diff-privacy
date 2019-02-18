@@ -1,6 +1,9 @@
 # Datasets
 data/
 
+# idea
+.idea/
+
 # Misc
 .DS_Store
 
